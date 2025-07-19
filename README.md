@@ -122,3 +122,18 @@ By following these principles, RESTful APIs become scalable, maintainable, and e
 - Use **Web API** for modern RESTful services.
 - Use **WCF** when working with legacy enterprise systems requiring SOAP or advanced features.
 - Use **MVC** when you need to render HTML views and build web applications.
+
+
+
+
+| Area                   | Description                                                                  |
+| ---------------------- | ---------------------------------------------------------------------------- |
+| **Backend Skills**     | Master ASP.NET Core Web API (Filters, Middleware, Auth, DI, etc.)            |
+| **Clean Architecture** | Build sample projects using Domain-Driven Design                             |
+| **SQL Proficiency**    | Joins, optimization, stored procs, query tuning                              |
+| **Design Patterns**    | Factory, Singleton, Strategy, Dependency Injection, etc.                     |
+| **Unit Testing**       | Learn XUnit or NUnit for API testing                                         |
+| **DSA**                | Learn basic Data Structures + Algorithms (2–3 questions/day from LeetCode)   |
+| **System Design**      | Basics like designing a login system, e-commerce app, RESTful APIs           |
+| **Git & CI/CD**        | Use GitHub for your portfolio and CI pipelines (GitHub Actions/Azure DevOps) |
+

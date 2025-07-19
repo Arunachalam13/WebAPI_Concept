@@ -1,0 +1,45 @@
+@rootURL = http://localhost:5224
+
+GET {{rootURL}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{rootURL}}/api/Products
+Accept: application/json
+
+###
+
+GET {{rootURL}}/api/Books
+Accept: application/json
+
+###
+
+GET {{rootURL}}/api/Books/1
+Accept: application/json
+
+###
+
+POST {{rootURL}}/api/Books
+Content-Type: application/json
+{
+    "id": 6,
+    "title": "C# Unlocked",
+    "author": "Alen",
+    "yearPublished": 2024
+}
+
+###
+
+PUT {{rootURL}}/api/Books/5
+Content-Type: application/json
+{
+    "id": 5,
+    "title": "Moby-Dick",
+    "author": "Alen",
+    "yearPublished": 1854
+}
+
+###
+
+DELETE {{rootURL}}/api/Books/4

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\simpleproductapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\simpleproductapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\db_context\\firstapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\db_context\\firstapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\migrations\\firstapicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\migrations\\firstapicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\migrations\\20250719060608_book data added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\migrations\\20250719060608_book data added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\migrations\\20250719055502_book model added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\migrations\\20250719055502_book model added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|d:\\arun\\learningnewthings\\practicewebapi\\webapi_concept\\crudpractice\\simpleproductapi\\simpleproductapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8C1D2EF-573F-44D4-9491-997376AE0C30}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SimpleProductApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:22:17.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "SimpleProductApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:08:11.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Program.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Program.cs",
+              "RelativeToolTip": "SimpleProductApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:23:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Models\\Book.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Models\\Book.cs",
+              "RelativeToolTip": "SimpleProductApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:05:42.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstAPIContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Migrations\\FirstAPIContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Migrations\\FirstAPIContextModelSnapshot.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Migrations\\FirstAPIContextModelSnapshot.cs",
+              "RelativeToolTip": "SimpleProductApi\\Migrations\\FirstAPIContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T06:14:33.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250719055502_book model added.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Migrations\\20250719055502_book model added.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Migrations\\20250719055502_book model added.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Migrations\\20250719055502_book model added.cs",
+              "RelativeToolTip": "SimpleProductApi\\Migrations\\20250719055502_book model added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T06:14:30.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250719060608_book data added.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Migrations\\20250719060608_book data added.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Migrations\\20250719060608_book data added.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Migrations\\20250719060608_book data added.cs",
+              "RelativeToolTip": "SimpleProductApi\\Migrations\\20250719060608_book data added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T06:06:08.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleProductApi.http",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\SimpleProductApi.http",
+              "RelativeDocumentMoniker": "SimpleProductApi\\SimpleProductApi.http",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\SimpleProductApi.http",
+              "RelativeToolTip": "SimpleProductApi\\SimpleProductApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-18T02:42:17.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstAPIContext.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Db_Context\\FirstAPIContext.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Db_Context\\FirstAPIContext.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Db_Context\\FirstAPIContext.cs",
+              "RelativeToolTip": "SimpleProductApi\\Db_Context\\FirstAPIContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T05:37:32.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "SimpleProductApi\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:14:35.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "SimpleProductApi\\Services\\ProductService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:15:21.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Models\\Product.cs",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleProductApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:13:44.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleProductApi\\appsettings.json",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\appsettings.json",
+              "RelativeToolTip": "SimpleProductApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T02:27:14.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Arun\\LearningNewThings\\PracticeWebAPI\\WebAPI_Concept\\CRUDPractice\\SimpleProductApi\\SimpleProductApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SimpleProductApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T02:27:21.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
