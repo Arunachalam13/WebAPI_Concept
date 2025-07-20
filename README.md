@@ -137,3 +137,6 @@ By following these principles, RESTful APIs become scalable, maintainable, and e
 | **System Design**      | Basics like designing a login system, e-commerce app, RESTful APIs           |
 | **Git & CI/CD**        | Use GitHub for your portfolio and CI pipelines (GitHub Actions/Azure DevOps) |
 
+References videos:
+
+Build REST APIs in .NET 9 – Full Course for Beginners (FreeCodeCamp) - https://www.youtube.com/watch?v=38GNKtclDdE&t=1271s
